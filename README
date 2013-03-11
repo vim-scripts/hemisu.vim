@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4470
+
+Features:
+- Two modes: one optimized for daytime, the other optimized for low light conditions
+- Made to work with both GUIs (gui) and color terminals (cterm)
+- Provides harmonious colors and styles for all predefined UI elements and syntax groups
+
+Homepage:
+http://noahfrederick.com/vim-color-scheme-hemisu/
+
+GitHup repository:
+https://github.com/noahfrederick/Hemisu
